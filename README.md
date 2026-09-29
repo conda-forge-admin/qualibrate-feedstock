@@ -190,6 +190,3 @@ Feedstock Maintainers
 
 * [@noya-gol](https://github.com/noya-gol/)
 
-
-<!-- dummy commit to enable rerendering -->
-
